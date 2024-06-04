@@ -1,0 +1,423 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 04 Jun 2024 13:01:03 at https://fore.coffee/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://fore.coffee/ -O1 "C:\Users\User\Documents\webprofile" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:01:25	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 7231): https://fore.coffee/wp-content/uploads/2023/08/Google-Play-Badge.png
+13:02:21	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://fore.coffee/)
+13:03:17	Error: 	"Unauthorized" (401) at link https://fore.coffee/wp-admin/admin-ajax.php (from https://fore.coffee/)
+13:03:17	Error: 	"Not Found" (404) at link https://fore.coffee/sg/comments/feed/ (from https://fore.coffee/sg/)
+13:04:09	Warning: 	File not parsed, looks like binary: https://fore.coffee/wp-content/plugins/content-views-query-and-display-post-page/public/assets/fonts/glyphicons-halflings-regular.woff2
+13:04:09	Warning: 	File not parsed, looks like binary: https://fore.coffee/wp-content/plugins/revslider/public/assets/css/openhand.cur
+13:04:09	Warning: 	File not parsed, looks like binary: https://fore.coffee/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+13:04:11	Warning: 	File not parsed, looks like binary: https://fore.coffee/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+13:04:13	Error: 	"Not Found" (404) at link https://fore.coffee/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+13:04:13	Error: 	"Not Found" (404) at link https://fore.coffee/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+13:04:13	Error: 	"Not Found" (404) at link https://fore.coffee/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+13:04:13	Warning: 	Moved Permanently for https://fore.coffee/?p=16642
+13:04:13	Warning: 	File has moved from https://fore.coffee/?p=16642 to https://fore.coffee/download-apps/
+13:04:13	Warning: 	Moved Permanently for https://fore.coffee/?p=9242
+13:04:13	Warning: 	File has moved from https://fore.coffee/?p=9242 to https://fore.coffee/about-us/
+13:04:16	Warning: 	Moved Permanently for https://fore.coffee/?p=16279
+13:04:16	Warning: 	File has moved from https://fore.coffee/?p=16279 to https://fore.coffee/menu/
+13:04:16	Warning: 	Moved Permanently for https://fore.coffee/?p=17905
+13:04:16	Warning: 	File has moved from https://fore.coffee/?p=17905 to https://fore.coffee/store/
+13:04:16	Warning: 	Moved Permanently for https://fore.coffee/?p=21023
+13:04:16	Warning: 	File has moved from https://fore.coffee/?p=21023 to https://fore.coffee/collaboration/
+13:04:16	Warning: 	Moved Permanently for https://fore.coffee/?p=16781
+13:04:16	Warning: 	File has moved from https://fore.coffee/?p=16781 to https://fore.coffee/career/
+13:04:23	Warning: 	Moved Permanently for https://fore.coffee/?p=9534
+13:04:23	Warning: 	File has moved from https://fore.coffee/?p=9534 to https://fore.coffee/contact-us/
+13:04:23	Warning: 	Moved Permanently for https://fore.coffee/?p=22551
+13:04:23	Warning: 	File has moved from https://fore.coffee/?p=22551 to https://fore.coffee/fore-ajak-perempuan-mengenal-industri-kopi/
+13:04:34	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-circle/ (from https://fore.coffee/fore-ajak-perempuan-mengenal-industri-kopi/)
+13:04:35	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-coffee/ (from https://fore.coffee/fore-ajak-perempuan-mengenal-industri-kopi/)
+13:04:35	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-coffeeperingatan-hari-kartini/ (from https://fore.coffee/fore-ajak-perempuan-mengenal-industri-kopi/)
+13:04:36	Error: 	"Not Found" (404) at link https://fore.coffee/tag/girls-beyond/ (from https://fore.coffee/fore-ajak-perempuan-mengenal-industri-kopi/)
+13:04:37	Error: 	"Not Found" (404) at link https://fore.coffee/tag/peringatan-hari-kartini/ (from https://fore.coffee/fore-ajak-perempuan-mengenal-industri-kopi/)
+13:05:13	Warning: 	Moved Permanently for https://fore.coffee/?p=22521
+13:05:13	Warning: 	File has moved from https://fore.coffee/?p=22521 to https://fore.coffee/fore-wujudkan-harapan/
+13:05:13	Error: 	"Not Found" (404) at link https://fore.coffee/tag/campaign-ramadan-fore/ (from https://fore.coffee/fore-wujudkan-harapan/)
+13:05:13	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-coffee-en/ (from https://fore.coffee/fore-wujudkan-harapan/)
+13:05:13	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-hero/ (from https://fore.coffee/fore-wujudkan-harapan/)
+13:05:13	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-wujudkan-harapan/ (from https://fore.coffee/fore-wujudkan-harapan/)
+13:05:13	Error: 	"Not Found" (404) at link https://fore.coffee/tag/ramadan-di-fore/ (from https://fore.coffee/fore-wujudkan-harapan/)
+13:05:13	Error: 	"Not Found" (404) at link https://fore.coffee/tag/sebarkan-kebaikan-ramadan/ (from https://fore.coffee/fore-wujudkan-harapan/)
+13:05:13	Error: 	"Not Found" (404) at link https://fore.coffee/tag/segelas-kopi-wujudkan-harapan/ (from https://fore.coffee/fore-wujudkan-harapan/)
+13:05:18	Warning: 	Moved Permanently for https://fore.coffee/?p=22518
+13:05:18	Warning: 	File has moved from https://fore.coffee/?p=22518 to https://fore.coffee/anti-golput-fore-coffee-ajak-masyarakat-suarakan-aspirasi/
+13:05:18	Error: 	"Not Found" (404) at link https://fore.coffee/tag/event-fore-coffee/ (from https://fore.coffee/anti-golput-fore-coffee-ajak-masyarakat-suarakan-aspirasi/)
+13:05:18	Error: 	"Not Found" (404) at link https://fore.coffee/tag/event-pemilu/ (from https://fore.coffee/anti-golput-fore-coffee-ajak-masyarakat-suarakan-aspirasi/)
+13:05:18	Error: 	"Not Found" (404) at link https://fore.coffee/tag/foreyourvoicematters/ (from https://fore.coffee/anti-golput-fore-coffee-ajak-masyarakat-suarakan-aspirasi/)
+13:05:18	Warning: 	Moved Permanently for https://fore.coffee/?p=22485
+13:05:18	Warning: 	File has moved from https://fore.coffee/?p=22485 to https://fore.coffee/press-release-fore-coffee-resmi-kantongi-sertifikat-halal-untuk-menjamin-kualitas-bagi-pelanggan/
+13:05:25	Warning: 	Moved Permanently for https://fore.coffee/?p=17866
+13:05:25	Warning: 	File has moved from https://fore.coffee/?p=17866 to https://fore.coffee/forenews/
+13:05:32	Warning: 	Moved Permanently for https://fore.coffee/?p=22124
+13:05:32	Warning: 	File has moved from https://fore.coffee/?p=22124 to https://fore.coffee/sg/about-us-sg/
+13:05:32	Warning: 	Moved Permanently for https://fore.coffee/?p=22025
+13:05:32	Warning: 	File has moved from https://fore.coffee/?p=22025 to https://fore.coffee/sg/menu-4/
+13:05:32	Warning: 	Moved Permanently for https://fore.coffee/?p=22108
+13:05:32	Warning: 	File has moved from https://fore.coffee/?p=22108 to https://fore.coffee/sg/store-sg/
+13:05:32	Warning: 	Moved Permanently for https://fore.coffee/?p=22134
+13:05:32	Warning: 	File has moved from https://fore.coffee/?p=22134 to https://fore.coffee/sg/career-sg/
+13:05:32	Warning: 	Moved Permanently for https://fore.coffee/?p=22139
+13:05:32	Warning: 	File has moved from https://fore.coffee/?p=22139 to https://fore.coffee/sg/contact-us-sg/
+13:05:32	Warning: 	Moved Permanently for https://fore.coffee/?p=22129
+13:05:32	Warning: 	File has moved from https://fore.coffee/?p=22129 to https://fore.coffee/sg/download-apps-sg/
+13:05:32	Warning: 	Moved Permanently for https://fore.coffee/?p=22149
+13:05:32	Warning: 	File has moved from https://fore.coffee/?p=22149 to https://fore.coffee/sg/press-release-indonesias-most-favoured-brand-fore-coffee-opens-first-store-in-singapore-marking-brands-first-official-foray-in-international-market-2/
+13:05:34	Warning: 	Moved Permanently for https://fore.coffee/?p=22151
+13:05:34	Warning: 	File has moved from https://fore.coffee/?p=22151 to https://fore.coffee/sg/fore-news-sg/
+13:05:34	Warning: 	Moved Permanently for https://fore.coffee/?p=17898
+13:05:34	Warning: 	File has moved from https://fore.coffee/?p=17898 to https://fore.coffee/id/tentang-kami/
+13:05:34	Warning: 	Moved Permanently for https://fore.coffee/?p=19556
+13:05:34	Warning: 	File has moved from https://fore.coffee/?p=19556 to https://fore.coffee/id/menu-indo/
+13:05:34	Warning: 	Moved Permanently for https://fore.coffee/?p=21096
+13:05:34	Warning: 	File has moved from https://fore.coffee/?p=21096 to https://fore.coffee/id/kolaborasi/
+13:05:34	Warning: 	Moved Permanently for https://fore.coffee/?p=19562
+13:05:34	Warning: 	File has moved from https://fore.coffee/?p=19562 to https://fore.coffee/id/lokasi-store/
+13:05:34	Warning: 	Moved Permanently for https://fore.coffee/?p=19598
+13:05:34	Warning: 	File has moved from https://fore.coffee/?p=19598 to https://fore.coffee/id/career-at-fore-coffee-indo/
+13:05:34	Warning: 	Moved Permanently for https://fore.coffee/?p=19602
+13:05:34	Warning: 	File has moved from https://fore.coffee/?p=19602 to https://fore.coffee/id/hubungi-kami/
+13:05:34	Warning: 	Moved Permanently for https://fore.coffee/?p=19566
+13:05:34	Warning: 	File has moved from https://fore.coffee/?p=19566 to https://fore.coffee/id/download-apps-indo/
+13:05:34	Warning: 	Moved Permanently for https://fore.coffee/?p=22534
+13:05:34	Warning: 	File has moved from https://fore.coffee/?p=22534 to https://fore.coffee/id/sebarkan-kebaikan-ramadan-bareng-fore-coffee/
+13:05:52	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/fore-id/ (from https://fore.coffee/id/sebarkan-kebaikan-ramadan-bareng-fore-coffee/)
+13:05:52	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/fore-coffee-id/ (from https://fore.coffee/id/sebarkan-kebaikan-ramadan-bareng-fore-coffee/)
+13:05:52	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/fore-promo-id/ (from https://fore.coffee/id/sebarkan-kebaikan-ramadan-bareng-fore-coffee/)
+13:05:52	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/fore-wujudkan-harapan-id/ (from https://fore.coffee/id/sebarkan-kebaikan-ramadan-bareng-fore-coffee/)
+13:05:52	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/foreveryday-id/ (from https://fore.coffee/id/sebarkan-kebaikan-ramadan-bareng-fore-coffee/)
+13:05:52	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/kebaikan-ramadan-fore/ (from https://fore.coffee/id/sebarkan-kebaikan-ramadan-bareng-fore-coffee/)
+13:05:52	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/ramadan-di-fore-id/ (from https://fore.coffee/id/sebarkan-kebaikan-ramadan-bareng-fore-coffee/)
+13:05:52	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/segelas-kopi-wujudkan-harapan-id/ (from https://fore.coffee/id/sebarkan-kebaikan-ramadan-bareng-fore-coffee/)
+13:06:13	Warning: 	Moved Permanently for https://fore.coffee/?p=22488
+13:06:13	Warning: 	File has moved from https://fore.coffee/?p=22488 to https://fore.coffee/id/press-release-fore-coffee-resmi-kantongi-sertifikat-halal-untuk-menjamin-kualitas-bagi-pelanggan-2/
+13:06:13	Warning: 	Moved Permanently for https://fore.coffee/?p=22231
+13:06:13	Warning: 	File has moved from https://fore.coffee/?p=22231 to https://fore.coffee/id/press-release-fore-coffee-meriahkan-singapura-dengan-pembukaan-gerai-internasional-perdana/
+13:06:14	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/bugis-junction/ (from https://fore.coffee/id/press-release-fore-coffee-meriahkan-singapura-dengan-pembukaan-gerai-internasional-perdana/)
+13:06:14	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/singapore-id/ (from https://fore.coffee/id/press-release-fore-coffee-meriahkan-singapura-dengan-pembukaan-gerai-internasional-perdana/)
+13:06:20	Warning: 	Moved Permanently for https://fore.coffee/?p=19578
+13:06:20	Warning: 	File has moved from https://fore.coffee/?p=19578 to https://fore.coffee/id/4-jenis-susu-yang-nikmat-dicampur-dengan-kopi-id/
+13:06:20	Warning: 	Moved Permanently for https://fore.coffee/?p=22127
+13:06:20	Warning: 	File has moved from https://fore.coffee/?p=22127 to https://fore.coffee/sg/about-esg-sg/
+13:06:20	Warning: 	Moved Permanently for https://fore.coffee/?p=21838
+13:06:20	Warning: 	File has moved from https://fore.coffee/?p=21838 to https://fore.coffee/about-us-esg/
+13:06:21	Error: 	"Not Found" (404) at link https://fore.coffee/category (from https://fore.coffee/category/news-en/)
+13:06:30	Error: 	"Not Found" (404) at link https://fore.coffee/tag/coffeemeetsrewards/ (from https://fore.coffee/category/news-en/)
+13:06:30	Error: 	"Not Found" (404) at link https://fore.coffee/tag/forecoffee/ (from https://fore.coffee/category/news-en/)
+13:06:30	Error: 	"Not Found" (404) at link https://fore.coffee/tag/forenews/ (from https://fore.coffee/category/news-en/)
+13:06:30	Error: 	"Not Found" (404) at link https://fore.coffee/tag/jalan-jalan-ke-uk/ (from https://fore.coffee/category/news-en/)
+13:06:33	Error: 	"Not Found" (404) at link https://fore.coffee/tag/ceo-fore-coffee/ (from https://fore.coffee/category/news-en/)
+13:06:33	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cofounder-fore-coffee/ (from https://fore.coffee/category/news-en/)
+13:06:33	Error: 	"Not Found" (404) at link https://fore.coffee/tag/pendiri-fore-coffee-adalah/ (from https://fore.coffee/category/news-en/)
+13:06:33	Error: 	"Not Found" (404) at link https://fore.coffee/tag/vico-lomar/ (from https://fore.coffee/category/news-en/)
+13:06:41	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-promo/ (from https://fore.coffee/category/news-en/)
+13:06:41	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-x-alodokter/ (from https://fore.coffee/category/news-en/)
+13:06:41	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-x-nakes/ (from https://fore.coffee/category/news-en/)
+13:06:48	Error: 	"Not Found" (404) at link https://fore.coffee/tag/kopi/ (from https://fore.coffee/category/news-en/)
+13:07:55	Error: 	"Access Forbidden" (403) at link https://fore.coffee/wp-json/wp/v2/users/1 (from https://fore.coffee/author/auccm/)
+13:07:55	Error: 	"Not Found" (404) at link https://fore.coffee/author (from https://fore.coffee/author/auccm/)
+13:07:58	Warning: 	Moved Permanently for https://fore.coffee/?p=21970
+13:07:58	Warning: 	File has moved from https://fore.coffee/?p=21970 to https://fore.coffee/kolaborasi-fore-coffee-x-citilink-kopi-dengan-cita-rasa-indonesia/
+13:07:59	Error: 	"Not Found" (404) at link https://fore.coffee/tag/citilink/ (from https://fore.coffee/kolaborasi-fore-coffee-x-citilink-kopi-dengan-cita-rasa-indonesia/)
+13:08:00	Error: 	"Not Found" (404) at link https://fore.coffee/tag/ngopi/ (from https://fore.coffee/kolaborasi-fore-coffee-x-citilink-kopi-dengan-cita-rasa-indonesia/)
+13:08:00	Error: 	"Not Found" (404) at link https://fore.coffee/tag/penerbangan/ (from https://fore.coffee/kolaborasi-fore-coffee-x-citilink-kopi-dengan-cita-rasa-indonesia/)
+13:08:00	Error: 	"Not Found" (404) at link https://fore.coffee/tag/pre-book-drink/ (from https://fore.coffee/kolaborasi-fore-coffee-x-citilink-kopi-dengan-cita-rasa-indonesia/)
+13:08:05	Error: 	"Not Found" (404) at link https://fore.coffee/tag/expansion/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:06	Error: 	"Not Found" (404) at link https://fore.coffee/tag/singapore/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:06	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cinta-laura/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:07	Error: 	"Not Found" (404) at link https://fore.coffee/tag/ekspansi-singapura/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:07	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-coffee-dan-robries/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:08	Error: 	"Not Found" (404) at link https://fore.coffee/tag/kampanye-sosial/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:08	Error: 	"Not Found" (404) at link https://fore.coffee/tag/kuningan-city/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:09	Error: 	"Not Found" (404) at link https://fore.coffee/tag/social-sustainability-ambassador/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:09	Error: 	"Not Found" (404) at link https://fore.coffee/tag/americano/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:10	Error: 	"Not Found" (404) at link https://fore.coffee/tag/biji-kopi/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:10	Error: 	"Not Found" (404) at link https://fore.coffee/tag/espresso/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:11	Error: 	"Not Found" (404) at link https://fore.coffee/tag/menu-kopi/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:11	Error: 	"Not Found" (404) at link https://fore.coffee/tag/perbedaan-espresso-dan-americano/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:12	Error: 	"Not Found" (404) at link https://fore.coffee/tag/barista/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:13	Error: 	"Not Found" (404) at link https://fore.coffee/tag/barista-pemula/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:13	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cara-menjadi-barista/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:14	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cara-menjadi-barista-profesional/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:15	Error: 	"Not Found" (404) at link https://fore.coffee/tag/tips-barista/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:22	Error: 	"Not Found" (404) at link https://fore.coffee/tag/kopi-arabika/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:23	Error: 	"Not Found" (404) at link https://fore.coffee/tag/kopi-robusta/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:23	Error: 	"Not Found" (404) at link https://fore.coffee/tag/perbedaan-robusta-dan-arabika/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:24	Error: 	"Not Found" (404) at link https://fore.coffee/tag/robusta-dan-arabika/ (from https://fore.coffee/category/fun-facts/uncategorized/)
+13:08:28	Warning: 	Moved Permanently for https://fore.coffee/?p=21593
+13:08:28	Warning: 	File has moved from https://fore.coffee/?p=21593 to https://fore.coffee/press-release-indonesias-most-favoured-brand-fore-coffee-opens-first-store-in-singapore-marking-brands-first-official-foray-in-international-market/
+13:08:28	Warning: 	Moved Permanently for https://fore.coffee/?p=21493
+13:08:28	Warning: 	File has moved from https://fore.coffee/?p=21493 to https://fore.coffee/press-release-ajak-anak-muda-lebih-percaya-diri-dan-peduli-lingkungan-fore-coffee-bersama-cinta-laura-luncurkan-kampanye-foressentiallyyou-dan-foresponsible/
+13:08:28	Warning: 	Moved Permanently for https://fore.coffee/?p=20358
+13:08:28	Warning: 	File has moved from https://fore.coffee/?p=20358 to https://fore.coffee/6-cara-menjadi-barista-terampil-untuk-pemula/
+13:08:31	Warning: 	Moved Permanently for https://fore.coffee/?p=18333
+13:08:31	Warning: 	File has moved from https://fore.coffee/?p=18333 to https://fore.coffee/fore-coffee-gunakan-gelas-plastik-yang-dapat-digunakan-berulang-kali/
+13:08:31	Error: 	"Not Found" (404) at link https://fore.coffee/tag/forearth/ (from https://fore.coffee/fore-coffee-gunakan-gelas-plastik-yang-dapat-digunakan-berulang-kali/)
+13:08:31	Error: 	"Not Found" (404) at link https://fore.coffee/tag/foreusable/ (from https://fore.coffee/fore-coffee-gunakan-gelas-plastik-yang-dapat-digunakan-berulang-kali/)
+13:08:35	Warning: 	Moved Permanently for https://fore.coffee/?p=22236
+13:08:35	Warning: 	File has moved from https://fore.coffee/?p=22236 to https://fore.coffee/press-release-fore-coffee-berhasil-sajikan-3000-cups-pada-akhir-pekan-perdana-di-singapura/
+13:08:35	Warning: 	Moved Permanently for https://fore.coffee/?p=21810
+13:08:35	Warning: 	File has moved from https://fore.coffee/?p=21810 to https://fore.coffee/id/fore-news/
+13:08:38	Warning: 	Moved Permanently for https://fore.coffee/?p=20366
+13:08:38	Warning: 	File has moved from https://fore.coffee/?p=20366 to https://fore.coffee/7-tips-membuat-coffee-latte-art-anti-gagal/
+13:08:38	Warning: 	Moved Permanently for https://fore.coffee/?p=20363
+13:08:38	Warning: 	File has moved from https://fore.coffee/?p=20363 to https://fore.coffee/jangan-salah-pesan-pahami-4-perbedaan-espresso-dan-americano/
+13:08:45	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/ceo-fore-coffee-id/ (from https://fore.coffee/id/category/news/)
+13:08:45	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/cofounder-fore-coffee-id/ (from https://fore.coffee/id/category/news/)
+13:08:45	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/pendiri-fore-coffee-adalah-id/ (from https://fore.coffee/id/category/news/)
+13:08:45	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/vico-lomar-id/ (from https://fore.coffee/id/category/news/)
+13:08:46	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/fore-x-alodokter-id/ (from https://fore.coffee/id/category/news/)
+13:08:46	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/fore-x-nakes-id/ (from https://fore.coffee/id/category/news/)
+13:08:57	Warning: 	Moved Permanently for https://fore.coffee/?p=19800
+13:08:57	Warning: 	File has moved from https://fore.coffee/?p=19800 to https://fore.coffee/id/bersama-alodokter-fore-coffee-bagikan-minuman-manuka-series-gratis-untuk-tenaga-kesehatan-indonesia-di-rsdc-wisma-atlet-id/
+13:08:59	Warning: 	Moved Permanently for https://fore.coffee/?p=19802
+13:08:59	Warning: 	File has moved from https://fore.coffee/?p=19802 to https://fore.coffee/id/foreconnect-with-nakes-x-alodokter/
+13:08:59	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/forexzalora-id/ (from https://fore.coffee/id/foreconnect-with-nakes-x-alodokter/)
+13:08:59	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/zalora-id/ (from https://fore.coffee/id/foreconnect-with-nakes-x-alodokter/)
+13:09:05	Warning: 	Moved Permanently for https://fore.coffee/?p=19804
+13:09:05	Warning: 	File has moved from https://fore.coffee/?p=19804 to https://fore.coffee/id/voucher-spesial-untuk-fore-friends-dari-zalora-id/
+13:09:05	Warning: 	Moved Permanently for https://fore.coffee/?p=19595
+13:09:05	Warning: 	File has moved from https://fore.coffee/?p=19595 to https://fore.coffee/id/menangkan-hadiah-eksklusif-dari-fore-senilai-puluhan-juta-rupiah-dengan-join-foreveryday-fest-id/
+13:09:05	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/foreveryday-fest-id/ (from https://fore.coffee/id/menangkan-hadiah-eksklusif-dari-fore-senilai-puluhan-juta-rupiah-dengan-join-foreveryday-fest-id/)
+13:09:05	Warning: 	Moved Permanently for https://fore.coffee/?p=19584
+13:09:05	Warning: 	File has moved from https://fore.coffee/?p=19584 to https://fore.coffee/id/kenalan-dengan-vico-lomar-co-founder-dan-ceo-fore-coffee-id/
+13:09:05	Warning: 	Moved Permanently for https://fore.coffee/?p=19589
+13:09:05	Warning: 	File has moved from https://fore.coffee/?p=19589 to https://fore.coffee/id/sambut-2022-fore-coffee-mantapkan-strategi-akselerasi-ekspansi-gerai-dan-menu-id/
+13:09:05	Warning: 	Moved Permanently for https://fore.coffee/?p=19465
+13:09:05	Warning: 	File has moved from https://fore.coffee/?p=19465 to https://fore.coffee/4-jenis-susu-yang-nikmat-dicampur-dengan-kopi/
+13:09:11	Warning: 	Moved Permanently for https://fore.coffee/?p=19826
+13:09:11	Warning: 	File has moved from https://fore.coffee/?p=19826 to https://fore.coffee/coffee-meets-rewards/
+13:09:17	Warning: 	Moved Permanently for https://fore.coffee/?p=19461
+13:09:17	Warning: 	File has moved from https://fore.coffee/?p=19461 to https://fore.coffee/kenalan-dengan-vico-lomar-co-founder-dan-ceo-fore-coffee/
+13:09:17	Warning: 	Moved Permanently for https://fore.coffee/?p=19428
+13:09:17	Warning: 	File has moved from https://fore.coffee/?p=19428 to https://fore.coffee/sambut-ramadan-fore-coffee-x-amanda-rawles-hadirkan-the-goodness-of-oats/
+13:09:17	Warning: 	Moved Permanently for https://fore.coffee/?p=19417
+13:09:17	Warning: 	File has moved from https://fore.coffee/?p=19417 to https://fore.coffee/ngopi-jadi-praktis-dengan-aplikasi-fore-coffee/
+13:09:17	Warning: 	Moved Permanently for https://fore.coffee/?p=19307
+13:09:17	Warning: 	File has moved from https://fore.coffee/?p=19307 to https://fore.coffee/sambut-2022-fore-coffee-mantapkan-strategi-akselerasi-ekspansi-gerai-dan-menu/
+13:09:17	Warning: 	Moved Permanently for https://fore.coffee/?p=19187
+13:09:17	Warning: 	File has moved from https://fore.coffee/?p=19187 to https://fore.coffee/bersama-alodokter-fore-coffee-bagikan-minuman-manuka-series-gratis-untuk-tenaga-kesehatan-indonesia-di-rsdc-wisma-atlet/
+13:09:19	Warning: 	Moved Permanently for https://fore.coffee/?p=18412
+13:09:19	Warning: 	File has moved from https://fore.coffee/?p=18412 to https://fore.coffee/fore-coffee-dan-promag-ajak-sobat-perih-bikin-latte-art/
+13:09:28	Warning: 	Moved Permanently for https://fore.coffee/?p=19131
+13:09:28	Warning: 	File has moved from https://fore.coffee/?p=19131 to https://fore.coffee/menangkan-hadiah-eksklusif-dari-fore-senilai-puluhan-juta-rupiah-dengan-join-foreveryday-fest/
+13:09:28	Error: 	"Not Found" (404) at link https://fore.coffee/tag/foreveryday/ (from https://fore.coffee/menangkan-hadiah-eksklusif-dari-fore-senilai-puluhan-juta-rupiah-dengan-join-foreveryday-fest/)
+13:09:28	Error: 	"Not Found" (404) at link https://fore.coffee/tag/foreveryday-fest/ (from https://fore.coffee/menangkan-hadiah-eksklusif-dari-fore-senilai-puluhan-juta-rupiah-dengan-join-foreveryday-fest/)
+13:09:30	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cappuccino/ (from https://fore.coffee/2023/01/)
+13:09:30	Error: 	"Not Found" (404) at link https://fore.coffee/tag/coffee-shop/ (from https://fore.coffee/2023/01/)
+13:09:30	Error: 	"Not Found" (404) at link https://fore.coffee/tag/espresso-base/ (from https://fore.coffee/2023/01/)
+13:09:30	Error: 	"Not Found" (404) at link https://fore.coffee/tag/jenis-kopi-terpopuler/ (from https://fore.coffee/2023/01/)
+13:09:30	Error: 	"Not Found" (404) at link https://fore.coffee/tag/jenis-jenis-kopi/ (from https://fore.coffee/2023/01/)
+13:09:30	Error: 	"Not Found" (404) at link https://fore.coffee/tag/latte/ (from https://fore.coffee/2022/11/)
+13:09:30	Error: 	"Not Found" (404) at link https://fore.coffee/tag/macam-macam-kopi/ (from https://fore.coffee/2022/11/)
+13:09:30	Error: 	"Not Found" (404) at link https://fore.coffee/tag/macchiato/ (from https://fore.coffee/2022/11/)
+13:09:30	Error: 	"Not Found" (404) at link https://fore.coffee/tag/minuman-kopi/ (from https://fore.coffee/2022/11/)
+13:09:33	Error: 	"Not Found" (404) at link https://fore.coffee/tag/barista-fore/ (from https://fore.coffee/2022/10/)
+13:09:33	Error: 	"Not Found" (404) at link https://fore.coffee/tag/barista-fore-coffee/ (from https://fore.coffee/2022/10/)
+13:09:33	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore/ (from https://fore.coffee/2022/10/)
+13:09:33	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-barista-championship/ (from https://fore.coffee/2022/10/)
+13:09:33	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-barista-championship-2022/ (from https://fore.coffee/2022/10/)
+13:09:33	Error: 	"Not Found" (404) at link https://fore.coffee/tag/kompetisi-barista/ (from https://fore.coffee/2022/10/)
+13:09:33	Error: 	"Not Found" (404) at link https://fore.coffee/tag/lomba-kopi/ (from https://fore.coffee/2022/10/)
+13:09:35	Error: 	"Not Found" (404) at link https://fore.coffee/tag/logo-fore-coffee/ (from https://fore.coffee/2022/10/)
+13:09:35	Error: 	"Not Found" (404) at link https://fore.coffee/tag/makna-logo-fore-coffee/ (from https://fore.coffee/2022/10/)
+13:09:37	Error: 	"Not Found" (404) at link https://fore.coffee/tag/menu-baru-fore-coffee/ (from https://fore.coffee/2022/10/)
+13:09:37	Error: 	"Not Found" (404) at link https://fore.coffee/tag/menu-fore-coffee/ (from https://fore.coffee/2022/10/)
+13:09:37	Error: 	"Not Found" (404) at link https://fore.coffee/tag/the-classic-treasure-series/ (from https://fore.coffee/2022/10/)
+13:09:37	Error: 	"Not Found" (404) at link https://fore.coffee/tag/ulang-tahun-fore-coffee/ (from https://fore.coffee/2022/10/)
+13:09:37	Error: 	"Not Found" (404) at link https://fore.coffee/tag/vidi-aldiano/ (from https://fore.coffee/2022/10/)
+13:09:41	Error: 	"Not Found" (404) at link https://fore.coffee/tag/forecast/ (from https://fore.coffee/2022/10/)
+13:09:41	Error: 	"Not Found" (404) at link https://fore.coffee/tag/forecast-fore-coffee/ (from https://fore.coffee/2022/10/)
+13:09:41	Error: 	"Not Found" (404) at link https://fore.coffee/tag/inovasi-fore-coffee/ (from https://fore.coffee/2022/10/)
+13:09:41	Error: 	"Not Found" (404) at link https://fore.coffee/tag/podcast/ (from https://fore.coffee/2022/10/)
+13:09:41	Error: 	"Not Found" (404) at link https://fore.coffee/tag/podcast-fore-coffee/ (from https://fore.coffee/2022/10/)
+13:09:42	Error: 	"Not Found" (404) at link https://fore.coffee/tag/long-flight/ (from https://fore.coffee/2022/10/)
+13:09:42	Error: 	"Not Found" (404) at link https://fore.coffee/tag/perjalanan-panjang/ (from https://fore.coffee/2022/10/)
+13:09:42	Error: 	"Not Found" (404) at link https://fore.coffee/tag/tips-long-flight/ (from https://fore.coffee/2022/10/)
+13:09:42	Error: 	"Not Found" (404) at link https://fore.coffee/tag/tips-perjalanan-panjang/ (from https://fore.coffee/2022/10/)
+13:09:42	Error: 	"Not Found" (404) at link https://fore.coffee/tag/tips-traveling/ (from https://fore.coffee/2022/10/)
+13:09:42	Error: 	"Not Found" (404) at link https://fore.coffee/tag/traveling-jarak-jauh/ (from https://fore.coffee/2022/10/)
+13:09:44	Error: 	"Not Found" (404) at link https://fore.coffee/tag/anniversary/ (from https://fore.coffee/2022/09/)
+13:09:44	Error: 	"Not Found" (404) at link https://fore.coffee/tag/ulang-tahun/ (from https://fore.coffee/2022/09/)
+13:09:46	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cara-minum-kopi-bagi-penderita-maag/ (from https://fore.coffee/2022/08/)
+13:09:46	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cara-minum-kopi-untuk-penyakit-asam-lambung/ (from https://fore.coffee/2022/08/)
+13:09:46	Error: 	"Not Found" (404) at link https://fore.coffee/tag/tips-minum-kopi-bagi-penderita-maag/ (from https://fore.coffee/2022/08/)
+13:09:46	Error: 	"Not Found" (404) at link https://fore.coffee/tag/tips-minum-kopi-untuk-penyakit-asam-lambung/ (from https://fore.coffee/2022/08/)
+13:09:48	Error: 	"Not Found" (404) at link https://fore.coffee/tag/manfaat-olahan-daun-pandan-untuk-kesehatan/ (from https://fore.coffee/2022/08/)
+13:09:48	Error: 	"Not Found" (404) at link https://fore.coffee/tag/manfaat-pandan-untuk-kesehatan/ (from https://fore.coffee/2022/08/)
+13:09:48	Error: 	"Not Found" (404) at link https://fore.coffee/tag/olahan-daun-pandan/ (from https://fore.coffee/2022/08/)
+13:09:48	Error: 	"Not Found" (404) at link https://fore.coffee/tag/olahan-kopi-pandan-latte/ (from https://fore.coffee/2022/08/)
+13:09:48	Error: 	"Not Found" (404) at link https://fore.coffee/tag/pandan-latte-fore-coffee/ (from https://fore.coffee/2022/08/)
+13:09:50	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cabang-fore-coffee/ (from https://fore.coffee/2022/08/)
+13:09:50	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cabang-fore-coffee-di-mana-saja/ (from https://fore.coffee/2022/08/)
+13:09:50	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-coffee-app/ (from https://fore.coffee/2022/08/)
+13:09:50	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-store/ (from https://fore.coffee/2022/08/)
+13:09:53	Error: 	"Not Found" (404) at link https://fore.coffee/tag/apa-efek-minum-kopi-saat-haid/ (from https://fore.coffee/2022/08/)
+13:09:53	Error: 	"Not Found" (404) at link https://fore.coffee/tag/bolehkah-minum-kopi-saat-haid/ (from https://fore.coffee/2022/08/)
+13:09:53	Error: 	"Not Found" (404) at link https://fore.coffee/tag/bolehkah-minum-kopi-saat-menstruasi/ (from https://fore.coffee/2022/08/)
+13:09:53	Error: 	"Not Found" (404) at link https://fore.coffee/tag/efek-minum-kopi-saat-haid/ (from https://fore.coffee/2022/08/)
+13:09:53	Error: 	"Not Found" (404) at link https://fore.coffee/tag/minum-kopi-saat-haid/ (from https://fore.coffee/2022/08/)
+13:09:53	Error: 	"Not Found" (404) at link https://fore.coffee/tag/minum-kopi-saat-haid-bolehkah/ (from https://fore.coffee/2022/08/)
+13:09:53	Error: 	"Not Found" (404) at link https://fore.coffee/tag/minum-kopi-saat-menstruasi/ (from https://fore.coffee/2022/08/)
+13:09:53	Error: 	"Not Found" (404) at link https://fore.coffee/tag/minum-kopi-saat-menstruasi-bolehkah/ (from https://fore.coffee/2022/08/)
+13:09:53	Error: 	"Not Found" (404) at link https://fore.coffee/tag/minuman-pengganti-kopi-saat-haid/ (from https://fore.coffee/2022/08/)
+13:09:53	Error: 	"Not Found" (404) at link https://fore.coffee/tag/tips-konsumsi-kopi-saat-haid/ (from https://fore.coffee/2022/08/)
+13:09:54	Error: 	"Not Found" (404) at link https://fore.coffee/tag/hybrid-working/ (from https://fore.coffee/2022/07/)
+13:09:54	Error: 	"Not Found" (404) at link https://fore.coffee/tag/hybrid-workplace/ (from https://fore.coffee/2022/07/)
+13:09:54	Error: 	"Not Found" (404) at link https://fore.coffee/tag/work-from-anywhere/ (from https://fore.coffee/2022/07/)
+13:09:54	Error: 	"Not Found" (404) at link https://fore.coffee/tag/grabfood/ (from https://fore.coffee/2022/07/)
+13:09:54	Error: 	"Not Found" (404) at link https://fore.coffee/tag/product/ (from https://fore.coffee/2022/07/)
+13:09:54	Error: 	"Not Found" (404) at link https://fore.coffee/tag/taste-of-summer/ (from https://fore.coffee/2022/07/)
+13:09:54	Error: 	"Not Found" (404) at link https://fore.coffee/tag/gaya-hidup-ramah-lingkungan/ (from https://fore.coffee/2022/07/)
+13:09:54	Error: 	"Not Found" (404) at link https://fore.coffee/tag/ikon-recycle/ (from https://fore.coffee/2022/07/)
+13:09:57	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cara-jadi-barista-fore/ (from https://fore.coffee/2022/07/)
+13:09:57	Error: 	"Not Found" (404) at link https://fore.coffee/tag/chaesar-barista-fore/ (from https://fore.coffee/2022/07/)
+13:09:57	Error: 	"Not Found" (404) at link https://fore.coffee/tag/indonesia-barista-championship/ (from https://fore.coffee/2022/07/)
+13:09:57	Error: 	"Not Found" (404) at link https://fore.coffee/tag/pengalaman-barista/ (from https://fore.coffee/2022/07/)
+13:09:59	Error: 	"Not Found" (404) at link https://fore.coffee/tag/aktivitas-asyik-sambil-ngopi/ (from https://fore.coffee/2022/07/)
+13:09:59	Error: 	"Not Found" (404) at link https://fore.coffee/tag/aktivitas-yang-dilakukan-saat-ngopi/ (from https://fore.coffee/2022/07/)
+13:09:59	Error: 	"Not Found" (404) at link https://fore.coffee/tag/manuka-series-fore/ (from https://fore.coffee/2022/07/)
+13:09:59	Error: 	"Not Found" (404) at link https://fore.coffee/tag/ngopi-santai/ (from https://fore.coffee/2022/07/)
+13:10:01	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cara-memelihara-imun-tubuh/ (from https://fore.coffee/2022/07/)
+13:10:01	Error: 	"Not Found" (404) at link https://fore.coffee/tag/madu-manuka/ (from https://fore.coffee/2022/07/)
+13:10:01	Error: 	"Not Found" (404) at link https://fore.coffee/tag/meningkatkan-imun-tubuh/ (from https://fore.coffee/2022/07/)
+13:10:03	Error: 	"Not Found" (404) at link https://fore.coffee/tag/aplikasi-fore-coffee/ (from https://fore.coffee/2022/06/)
+13:10:03	Error: 	"Not Found" (404) at link https://fore.coffee/tag/app-fore/ (from https://fore.coffee/2022/06/)
+13:10:03	Error: 	"Not Found" (404) at link https://fore.coffee/tag/beli-fore-coffee/ (from https://fore.coffee/2022/06/)
+13:10:03	Error: 	"Not Found" (404) at link https://fore.coffee/tag/reward-ke-luar-negeri/ (from https://fore.coffee/2022/06/)
+13:10:03	Error: 	"Not Found" (404) at link https://fore.coffee/tag/top-spender/ (from https://fore.coffee/2022/06/)
+13:10:05	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cafe-hits-bsd/ (from https://fore.coffee/2022/06/)
+13:10:05	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cafe-hits-jakarta/ (from https://fore.coffee/2022/06/)
+13:10:05	Error: 	"Not Found" (404) at link https://fore.coffee/tag/tempat-kerja/ (from https://fore.coffee/2022/06/)
+13:10:05	Error: 	"Not Found" (404) at link https://fore.coffee/tag/tempat-nongkrong/ (from https://fore.coffee/2022/06/)
+13:10:05	Error: 	"Not Found" (404) at link https://fore.coffee/tag/work-from-cafe/ (from https://fore.coffee/2022/06/)
+13:10:08	Error: 	"Not Found" (404) at link https://fore.coffee/tag/fore-deli/ (from https://fore.coffee/2022/06/)
+13:10:08	Error: 	"Not Found" (404) at link https://fore.coffee/tag/menu-makanan-fore/ (from https://fore.coffee/2022/06/)
+13:10:08	Error: 	"Not Found" (404) at link https://fore.coffee/tag/menu-sandwich-fore/ (from https://fore.coffee/2022/06/)
+13:10:08	Error: 	"Not Found" (404) at link https://fore.coffee/tag/sandwich-fore/ (from https://fore.coffee/2022/06/)
+13:10:08	Error: 	"Not Found" (404) at link https://fore.coffee/tag/varian-rasa-fore-deli/ (from https://fore.coffee/2022/06/)
+13:10:08	Error: 	"Not Found" (404) at link https://fore.coffee/tag/forexzalora/ (from https://fore.coffee/2021/04/)
+13:10:08	Error: 	"Not Found" (404) at link https://fore.coffee/tag/zalora/ (from https://fore.coffee/2021/04/)
+13:10:11	Error: 	"Not Found" (404) at link https://fore.coffee/tag/forecipe/ (from https://fore.coffee/2020/05/)
+13:10:11	Error: 	"Not Found" (404) at link https://fore.coffee/tag/masak/ (from https://fore.coffee/2020/05/)
+13:10:11	Error: 	"Not Found" (404) at link https://fore.coffee/tag/resep-makanan/ (from https://fore.coffee/2020/05/)
+13:10:11	Error: 	"Not Found" (404) at link https://fore.coffee/tag/resep-masakan/ (from https://fore.coffee/2020/05/)
+13:10:11	Error: 	"Not Found" (404) at link https://fore.coffee/tag/resep-minuman/ (from https://fore.coffee/2020/05/)
+13:10:21	Error: 	"Not Found" (404) at link https://fore.coffee/tag/biji-jawa-en/ (from https://fore.coffee/2019/10/)
+13:10:21	Error: 	"Not Found" (404) at link https://fore.coffee/tag/cerita-kopi/ (from https://fore.coffee/2019/10/)
+13:10:21	Error: 	"Not Found" (404) at link https://fore.coffee/tag/harga-kopi-en/ (from https://fore.coffee/2019/10/)
+13:10:21	Error: 	"Not Found" (404) at link https://fore.coffee/tag/kopi-gayo/ (from https://fore.coffee/2019/10/)
+13:10:22	Error: 	"Unauthorized" (401) at link https://fore.coffee/wp-admin/css/forms.min.css?ver=6.1.6 (from https://fore.coffee/wp-admin-ar3n/)
+13:10:22	Error: 	"Unauthorized" (401) at link https://fore.coffee/wp-admin/css/l10n.min.css?ver=6.1.6 (from https://fore.coffee/wp-admin-ar3n/)
+13:10:22	Error: 	"Unauthorized" (401) at link https://fore.coffee/wp-admin/css/login.min.css?ver=6.1.6 (from https://fore.coffee/wp-admin-ar3n/)
+13:10:22	Error: 	"Unauthorized" (401) at link https://fore.coffee/wp-admin/js/password-strength-meter.min.js?ver=6.1.6 (from https://fore.coffee/wp-admin-ar3n/)
+13:10:22	Error: 	"Unauthorized" (401) at link https://fore.coffee/wp-admin/js/user-profile.min.js?ver=6.1.6 (from https://fore.coffee/wp-admin-ar3n/)
+13:10:29	Warning: 	Moved Permanently for https://fore.coffee/?p=20322
+13:10:29	Warning: 	File has moved from https://fore.coffee/?p=20322 to https://fore.coffee/perbedaan-robusta-dan-arabika-lebih-enak-mana-2/
+13:10:29	Warning: 	Moved Permanently for https://fore.coffee/?p=20231
+13:10:29	Warning: 	File has moved from https://fore.coffee/?p=20231 to https://fore.coffee/perbedaan-robusta-dan-arabika-lebih-enak-mana/
+13:10:29	Warning: 	Moved Permanently for https://fore.coffee/?p=20325
+13:10:29	Warning: 	File has moved from https://fore.coffee/?p=20325 to https://fore.coffee/yuk-kenali-4-jenis-jenis-kopi-populer-di-coffee-shop-2/
+13:10:29	Warning: 	Moved Permanently for https://fore.coffee/?p=18308
+13:10:29	Warning: 	File has moved from https://fore.coffee/?p=18308 to https://fore.coffee/fore-coffee-dan-magnum-indonesia-luncurkan-special-creation-of-magnum-double/
+13:10:29	Warning: 	Moved Permanently for https://fore.coffee/?p=18357
+13:10:29	Warning: 	File has moved from https://fore.coffee/?p=18357 to https://fore.coffee/promofebruari2020/
+13:10:29	Warning: 	Moved Permanently for https://fore.coffee/?p=19587
+13:10:29	Warning: 	File has moved from https://fore.coffee/?p=19587 to https://fore.coffee/id/sambut-ramadan-fore-coffee-x-amanda-rawles-hadirkan-the-goodness-of-oats-id/
+13:10:29	Warning: 	Moved Permanently for https://fore.coffee/?p=19591
+13:10:29	Warning: 	File has moved from https://fore.coffee/?p=19591 to https://fore.coffee/id/ngopi-jadi-praktis-dengan-aplikasi-fore-coffee-id/
+13:10:30	Warning: 	Moved Permanently for https://fore.coffee/?p=20227
+13:10:30	Warning: 	File has moved from https://fore.coffee/?p=20227 to https://fore.coffee/yuk-kenali-4-jenis-jenis-kopi-populer-di-coffee-shop/
+13:10:30	Warning: 	Moved Permanently for https://fore.coffee/?p=17982
+13:10:30	Warning: 	File has moved from https://fore.coffee/?p=17982 to https://fore.coffee/5-biji-kopi-asli-indonesia-yang-wajib-kamu-coba-eng/
+13:10:30	Warning: 	Moved Permanently for https://fore.coffee/?p=17964
+13:10:30	Warning: 	File has moved from https://fore.coffee/?p=17964 to https://fore.coffee/id/5-biji-kopi-asli-indonesia-yang-wajib-kamu-coba/
+13:10:30	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/biji-jawa/ (from https://fore.coffee/id/5-biji-kopi-asli-indonesia-yang-wajib-kamu-coba/)
+13:10:30	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/biji-kopi-id/ (from https://fore.coffee/id/5-biji-kopi-asli-indonesia-yang-wajib-kamu-coba/)
+13:10:30	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/cerita-kopi-id/ (from https://fore.coffee/id/5-biji-kopi-asli-indonesia-yang-wajib-kamu-coba/)
+13:10:30	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/harga-kopi/ (from https://fore.coffee/id/5-biji-kopi-asli-indonesia-yang-wajib-kamu-coba/)
+13:10:30	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/kopi-id/ (from https://fore.coffee/id/5-biji-kopi-asli-indonesia-yang-wajib-kamu-coba/)
+13:10:30	Error: 	"Not Found" (404) at link https://fore.coffee/id/tag/kopi-gayo-id/ (from https://fore.coffee/id/5-biji-kopi-asli-indonesia-yang-wajib-kamu-coba/)
+13:10:32	Warning: 	Moved Permanently for https://fore.coffee/?p=19180
+13:10:32	Warning: 	File has moved from https://fore.coffee/?p=19180 to https://fore.coffee/fore-x-alodokter/
+13:10:32	Warning: 	Moved Permanently for https://fore.coffee/?p=19806
+13:10:32	Warning: 	File has moved from https://fore.coffee/?p=19806 to https://fore.coffee/id/promo-new-user-fore-coffee-november-2020-id/
+13:10:32	Warning: 	Moved Permanently for https://fore.coffee/?p=19173
+13:10:32	Warning: 	File has moved from https://fore.coffee/?p=19173 to https://fore.coffee/voucher-spesial-untuk-fore-friends-dari-zalora/
+13:10:32	Warning: 	Moved Permanently for https://fore.coffee/?p=18378
+13:10:32	Warning: 	File has moved from https://fore.coffee/?p=18378 to https://fore.coffee/fore-coffee-dan-promag-berkolaborasi-hadirkan-kopi-ramah-lambung/
+13:10:32	Warning: 	Moved Permanently for https://fore.coffee/?p=18188
+13:10:32	Warning: 	File has moved from https://fore.coffee/?p=18188 to https://fore.coffee/fore-coffee-luncurkan-toko-pertama-di-medan/
+13:10:32	Warning: 	Moved Permanently for https://fore.coffee/?p=19833
+13:10:32	Warning: 	File has moved from https://fore.coffee/?p=19833 to https://fore.coffee/nikmatnya-ngopi-ditemani-fore-deli-sandwich-freshly-made-dari-fore-coffee/
+13:10:32	Warning: 	Moved Permanently for https://fore.coffee/?p=20083
+13:10:32	Warning: 	File has moved from https://fore.coffee/?p=20083 to https://fore.coffee/taste-of-summer-series-fore-coffee-x-grabfood-collaboration/
+13:10:32	Warning: 	Moved Permanently for https://fore.coffee/?p=20080
+13:10:32	Warning: 	File has moved from https://fore.coffee/?p=20080 to https://fore.coffee/ikon-recycle-pada-gelas-fore-coffee-realisasi-gaya-hidup-ramah-lingkungan/
+13:10:33	Warning: 	Moved Permanently for https://fore.coffee/?p=18396
+13:10:33	Warning: 	File has moved from https://fore.coffee/?p=18396 to https://fore.coffee/harapan-pak-sudirman-untuk-industri-kopi-indonesia/
+13:10:33	Warning: 	Moved Permanently for https://fore.coffee/?p=18538
+13:10:33	Warning: 	File has moved from https://fore.coffee/?p=18538 to https://fore.coffee/fore-hadirkan-minuman-tradisional/
+13:10:33	Warning: 	Moved Permanently for https://fore.coffee/?p=18102
+13:10:33	Warning: 	File has moved from https://fore.coffee/?p=18102 to https://fore.coffee/5-menu-paling-favorit-di-fore-coffee/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=19025
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=19025 to https://fore.coffee/promo-new-user-fore-coffee-november-2020/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20221
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20221 to https://fore.coffee/lebih-dekat-dengan-pemenang-fore-barista-championship-2022/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20213
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20213 to https://fore.coffee/filosofi-di-balik-logo-fore-coffee-apa-maknanya/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20200
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20200 to https://fore.coffee/yuk-cobain-lezatnya-4-varian-menu-the-classic-treasure-series-dari-fore-coffee/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20197
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20197 to https://fore.coffee/minum-kopi-baiknya-sebelum-atau-setelah-olahraga/
+13:10:34	Error: 	"Not Found" (404) at link https://fore.coffee/id/home-indo/ (from https://fore.coffee/minum-kopi-baiknya-sebelum-atau-setelah-olahraga/)
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20192
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20192 to https://fore.coffee/forecast-sesi-podcast-seru-dari-fore-coffee/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20188
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20188 to https://fore.coffee/5-tips-biar-tetap-fresh-selama-perjalanan-panjang/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20151
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20151 to https://fore.coffee/gandeng-vidi-aldiano-fore-coffee-luncurkan-seri-minuman-baru-untuk-anniversary-ke-4/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20144
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20144 to https://fore.coffee/6-tips-menikmati-kopi-yang-lebih-aman-buat-asam-lambung/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20138
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20138 to https://fore.coffee/pandan-latte-nikmatnya-olahan-daun-pandan-dan-kopi-banyak-manfaatnya/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20133
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20133 to https://fore.coffee/nongkrong-asyik-di-fore-store-ada-di-kota-mana-aja/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20117
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20117 to https://fore.coffee/apakah-boleh-minum-kopi-saat-haid-ini-jawabannya/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20086
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20086 to https://fore.coffee/hybrid-workplace-konsep-yang-turut-diadaptasi-oleh-fore-coffee/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20075
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20075 to https://fore.coffee/dari-balik-mesin-kopi-serunya-jadi-barista-fore-coffee/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=20063
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=20063 to https://fore.coffee/aktivitas-asyik-yang-bisa-dilakukan-sambil-ngopi-santai/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=19879
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=19879 to https://fore.coffee/yuk-lakukan-5-cara-ini-untuk-meningkatkan-imun-tubuh/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=19856
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=19856 to https://fore.coffee/jadi-top-spender-di-aplikasi-fore-coffee-bisa-jalan-jalan-ke-luar-negeri/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=19852
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=19852 to https://fore.coffee/bisa-kerja-sambil-hangout-di-fore-store/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=19848
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=19848 to https://fore.coffee/the-meatless-deli-menu-plant-based-baru-dari-fore-deli-dan-green-rebel/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=18631
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=18631 to https://fore.coffee/homemade-creamy-matcha-fore/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=18622
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=18622 to https://fore.coffee/earl-grey-hot-chocolate/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=18543
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=18543 to https://fore.coffee/beli-satu-demi-semua/
+13:10:34	Warning: 	Moved Permanently for https://fore.coffee/?p=18273
+13:10:34	Warning: 	File has moved from https://fore.coffee/?p=18273 to https://fore.coffee/promojanuari2020/
+13:10:35	Warning: 	Moved Permanently for https://fore.coffee/?p=18160
+13:10:35	Warning: 	File has moved from https://fore.coffee/?p=18160 to https://fore.coffee/ini-dia-promo-fore-coffee-di-desember-2019/
+13:10:39	Warning: 	Moved Permanently for https://fore.coffee/?p=19707
+13:10:39	Warning: 	File has moved from https://fore.coffee/?p=19707 to https://fore.coffee/id/bibit-untuk-indonesia-harapan-pak-sudirman-untuk-industri-kopi-id/
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 36 seconds : 1583 links scanned, 1278 files written (111642116 bytes overall) [102914720 bytes received at 178671 bytes/sec], 30561907 bytes transferred using HTTP compression in 575 files, ratio 21%, 23.8 requests per connection
+(201 errors, 211 warnings, 0 messages)
